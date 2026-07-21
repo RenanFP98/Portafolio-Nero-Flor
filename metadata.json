@@ -1,0 +1,6 @@
+{
+  "name": "Dual Artist Portfolio",
+  "description": "A split-screen portfolio featuring a female artist (pink) and a male artist (red/black) with smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
